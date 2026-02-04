@@ -10,3 +10,4 @@ Following along to Thorsten Ball's Writing an Interpreter in Go
 
 ## Update
 - Started Writing a Compiler in Go on 1/28/26
+- Writing a Compiler in Go complete 2/3/26.
